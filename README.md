@@ -42,38 +42,3 @@ The Task Manager Application is a simple, responsive web app built with React, C
 
 ![App Screenshot](./src/assets/taskmanager.png)
 
-## Folder Structure 
-
-``
-Task-Manager/
-│
-├── public/
-│ └── index.html
-│
-├── src/
-│ ├── components/
-│ │ ├── TaskForm.js
-│ │ ├── TaskList.js
-│ │ └── TaskItem.js
-│ │
-│ ├── redux/
-│ │ ├── actions.js
-│ │ ├── reducers.js
-│ │ └── store.js
-│ │
-│ ├── services/
-│ │ ├── api.js
-│ │ └── taskService.js
-│ │
-│ ├── styles/
-│ │ └── theme.js
-│ │
-│ ├── App.js
-│ └── index.js
-│
-├── package.json
-└── README.md
-
-``
-
-
